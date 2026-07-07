@@ -1,0 +1,5 @@
+.env
+/venv
+.flash/
+__pycache__/
+*.pyc
